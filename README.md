@@ -7,7 +7,7 @@
 
 ### 使用方法
 前端安装：从插件市场中导入新建项目或者从github中拉取下来，再导入HBuilder项目中<br>
-后端安装：下载[企业官网模板后端插件](https://www.xenice.com/article/minisi-ow%e5%ae%98%e7%bd%91%e5%b0%8f%e7%a8%8b%e5%ba%8f%e6%8f%92%e4%bb%b6)上传到wordpress中，开启后就可以看见 设置-应用菜单了，里面超多选项可以自定义前端模板。
+后端安装：下载[企业官网模板后端插件](https://www.xenice.com/article/minisi-ow)上传到wordpress中，开启后就可以看见 设置-应用菜单了，里面超多选项可以自定义前端模板。
 
 
 前端安装后，打开APP.VUE文件，修改服务器api地址就行了。
