@@ -20,8 +20,8 @@ globalData: {
 
 ### 缩略图
 
-![ow1](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/1.jpg)
+![ow1](https://raw.githubusercontent.com/xenice/ow/master/1.jpg)
 
-![ow1](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/2.jpg)
+![ow1](https://raw.githubusercontent.com/xenice/ow/master/2.jpg)
 
-![ow1](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/3.jpg)
+![ow1](https://raw.githubusercontent.com/xenice/ow/master/3.jpg)
