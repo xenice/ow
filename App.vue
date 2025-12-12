@@ -7,7 +7,7 @@
 			site: '',
 			// end multisite
 			
-			server: 'https://app.minisi.cn/',
+			server: 'https://demo.xenice.com/',
 			slug: 'wp-json/ow/v1/',
 			base: '',
 			settings:{}
