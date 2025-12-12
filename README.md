@@ -39,7 +39,7 @@ https://www.xenice.com/zh/ow/
 
 ### **后端插件（WordPress 插件）**
 
--   👉 购买后下载（￥20）[前往](https://www.xenice.com/zh/ow/)
+-   👉 插件下载 [前往下载](https://www.xenice.com/zh/ow/)
 -   下载 ZIP 后，在 **WordPress → 插件 → 安装插件 → 上传插件** 启用即可
 
 ------------------------------------------------------------------------
